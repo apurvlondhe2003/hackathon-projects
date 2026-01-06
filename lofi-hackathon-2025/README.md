@@ -54,6 +54,7 @@ student-daily-planner/
 ├── index.html
 ├── style.css
 ├── script.js
+├── Logo.png
 └── README.md
 
 ```
